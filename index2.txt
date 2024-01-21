@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>My potfolio!</title>
+  </head>
+  <body>
+    <h1>welcome to my website</h1>
+    <h2>my first project !!</h2>
+    <h3>about my self</h3>
+    <img src="./assets/Screenshot (2).png" width="300px" />
+    <br /><br /><br /><br />
+
+    <a href="./public/index.html"> tap to see the project </a>
+  </body>
+</html>
